@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Adarsh Yadav!
 
 - 👀 I’m interested in Web Development.
-- 🌱 Currently learning React.js, Tailwind CSS, and Next.js.
+- 🌱 Currently learning React.js, Tailwind CSS .
 
 - 💬 Ask me about frontend tech.
 - 📫 Reach me at: **adarshyadav918273@gmail.com**
