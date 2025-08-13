@@ -34,4 +34,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav9&layout=compact&theme=radical)  
 
 ---
-✨ *"Turning Ideas into Code & Curiosity into Projects"*  
+✨ *"Turning Ideas into Code &  into plan and in the  Projects"*  
