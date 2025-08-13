@@ -18,7 +18,7 @@
 ## 📌 Projects
 
 - 🎮 **Simon Game** – A memory game built using HTML, CSS, and JavaScript  
-  👉 [Play it here](https://bit.ly/SimonGame)
+  👉 [Play it here](https://simongame-rho.vercel.app/)
 
 ---
 ## 🛠️ Tech Stack
