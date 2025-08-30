@@ -63,6 +63,8 @@
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshYadav9&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav9&layout=compact&theme=radical)  
 
+## 📈 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdarshYadav9&theme=radical)
 ---
 
 ✨ *"Transforming ideas into elegant code, robust databases, and impactful projects"*  
