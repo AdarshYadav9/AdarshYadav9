@@ -14,11 +14,20 @@
 
 ---
 
-## 📌 Featured Project  
-🎮 **Simon Game** – A fun memory game made with HTML, CSS, JS  
-👉 [Play it here](https://simongame-rho.vercel.app/)  
+## 📌 Featured Projects  
 
----
+- 🔐 **Password Generator** – Generate strong and secure passwords instantly  
+  👉 [Live Demo](https://password-generator-beryl-delta-59.vercel.app/)  
+
+- 🎬 **Movie Search Bar** – Search for movies dynamically using an API  
+  👉 [Live Demo](https://movie-search-bar-dusky.vercel.app/)  
+
+- 💱 **Currency Converter** – Convert currencies in real-time  
+  👉 [Live Demo](https://currency-converter-changer.vercel.app/)  
+
+- 🎮 **Simon Game** – A fun memory game built with HTML, CSS, and JavaScript  
+  👉 [Play it here](https://simongame-rho.vercel.app/)  
+
 
 ## 🛠️ Skills  
 
