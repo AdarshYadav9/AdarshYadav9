@@ -10,7 +10,7 @@
 💡 Passionate **CSE Student** & Tech Explorer  
 🎯 Focused on **Full-Stack Development** with expertise in **React.js, Node.js, and MySQL**  
 🤝 Open to collaboration on **Web Applications & Open-Source Projects**  
-⚡ Fun fact: I debug faster with juice 🧃  
+⚡ Fun fact: I debug faster with juice 🧃  , Water  
 
 ---
 
