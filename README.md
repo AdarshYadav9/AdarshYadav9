@@ -68,9 +68,13 @@
 
 ## 📊 GitHub Stats  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=AdarshYadav9&show_icons=true&theme=dracula&hide_border=false&count_private=true" alt="Adarsh's GitHub Stats" width="50%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav9&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" width="50%"/>  
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshYadav9&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Adarsh's GitHub Stats" width="40%"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav9&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="40%"/>  
+</p>  
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshYadav9&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="45%"/>  
+</p>  
+
 
 
 ## 📈 Contribution Streak
