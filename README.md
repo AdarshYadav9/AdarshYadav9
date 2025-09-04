@@ -68,13 +68,12 @@
 
 ## 📊 GitHub Stats  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=AdarshYadav9&show_icons=true&theme=monokai&hide_border=false&count_private=true&include_all_commits=true" alt="Adarsh's GitHub Stats" width="35%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav9&layout=compact&theme=monokai&hide_border=false" alt="Top Languages" width="35%"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshYadav9&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Adarsh's GitHub Stats" width="40%"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav9&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="37%"/>  
 </p>  
 <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshYadav9&theme=monokai&hide_border=false" alt="GitHub Streak" width="40%"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshYadav9&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="45%"/>  
 </p>
-
 
 ## 📈 Contribution Streak
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshYadav9&theme=radical" alt="GitHub Streak" width="49%"/>  
