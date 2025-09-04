@@ -66,13 +66,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>  
 </p> 
 
----## 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=AdarshYadav9&show_icons=true&theme=radical" alt="Adarsh's GitHub stats" width="49%"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshYadav9&show_icons=true&theme=radical" alt="Adarsh's GitHub stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav9&layout=compact&theme=radical" alt="Top Languages" width="49%"/> 
   </p>
- <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav9&layout=compact&theme=radical" alt="Top Languages" width="49%"/>  
-</p>  
+
 
 
 ## 📈 Contribution Streak
