@@ -69,14 +69,14 @@
 ---## 📊 GitHub Stats  
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=AdarshYadav9&show_icons=true&theme=radical" alt="Adarsh's GitHub stats" width="49%"/>  
+  </p>
+ <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav9&layout=compact&theme=radical" alt="Top Languages" width="49%"/>  
 </p>  
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshYadav9&theme=radical" alt="GitHub Streak" width="49%"/>  
-</p>
+
 
 ## 📈 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdarshYadav9&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshYadav9&theme=radical" alt="GitHub Streak" width="49%"/>  
 -----
 
 ✨ *"Transforming ideas into elegant code, robust databases, and impactful projects"*
