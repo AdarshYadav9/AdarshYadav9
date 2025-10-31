@@ -1,17 +1,31 @@
 # 👋 Hey, I'm Adarsh Yadav!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20Yadav-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-yadav9)
-[![GitHub](https://img.shields.io/badge/GitHub-AdarshYadav9-black?style=for-the-badge&logo=github)](https://github.com/AdarshYadav9)
-[![Gmail](https://img.shields.io/badge/Gmail-adarshyadav918273@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:adarshyadav918273@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/adarsh-yadav9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Yadav-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AdarshYadav9" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AdarshYadav9-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:adarshyadav918273@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-adarshyadav918273@gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+  </a>
+</div>
+
+<br/>
 
 ---
 
 ## 🚀 About Me
 
-💡 **Passionate CSE Student** & Tech Explorer  
-🎯 **Full-Stack Development** | React.js • Node.js • MySQL  
-🤝 Open to collaboration on **Web Applications & Open-Source Projects**  
-⚡ **Fun fact:** I debug faster with juice 🧃 and water 💧
+<p align="center">
+  <strong>💡 Passionate <strong>CSE Student</strong> & Tech Explorer</strong><br/>
+  <strong>🎯 Focused on <strong>Full-Stack Development</strong> with expertise in <strong>React.js, Node.js, and MySQL</strong></strong><br/>
+  <strong>🤝 Open to collaboration on <strong>Web Applications & Open-Source Projects</strong></strong><br/>
+  <strong>⚡ Fun fact: I debug faster with juice 🧃 , Water</strong> 💧
+</p>
 
 ---
 
