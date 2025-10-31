@@ -55,8 +55,16 @@
 </p>
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=AdarshYadav9&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Adarsh's GitHub Stats" width="48%"/> 
+![](https://github-readme-stats.vercel.app/api?username=AdarshYadav9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav9&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="38%"/>
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AdarshYadav9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AdarshYadav9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 📈 Contribution Streak
 <p align="left">
