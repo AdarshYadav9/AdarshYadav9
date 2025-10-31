@@ -74,7 +74,7 @@
 
 
 ## 📈 Contribution Streak
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshYadav9&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="45%"/>  
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshYadav9&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=FF7F50&ring=6495ED&currStreakLabel=FFD700" alt="GitHub Streak" width="70%"/> </p>
 -----
 
 ✨ *"Transforming ideas into elegant code, robust databases, and impactful projects"*
