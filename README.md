@@ -1,11 +1,12 @@
-# 👋 Hey, I'm Adarsh Yadav! 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20Yadav-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-yadav9) 
+# 👋 Hey, I'm Adarsh Yadav!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20Yadav-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-yadav9)
 [![GitHub](https://img.shields.io/badge/GitHub-AdarshYadav9-black?style=for-the-badge&logo=github)](https://github.com/AdarshYadav9)
-[![Gmail](https://img.shields.io/badge/Gmail-adarshyadav918273@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:adarshyadav918273@gmail.com) 
-
- 🚀 About Me
-💡 Passionate **CSE Student** & Tech Explorer 🎯 Focused on **Full-Stack Development** with expertise in **React.js, Node.js, and MySQL** 
-🤝 Open to collaboration on **Web Applications & Open-Source Projects** 
+[![Gmail](https://img.shields.io/badge/Gmail-adarshyadav918273@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:adarshyadav918273@gmail.com)
+---
+## 🚀 About Me
+💡 Passionate **CSE Student** & Tech Explorer  
+🎯 Focused on **Full-Stack Development** with expertise in **React.js, Node.js, and MySQL**  
+🤝 Open to collaboration on **Web Applications & Open-Source Projects**  
 ⚡ Fun fact: I debug faster with juice 🧃 , Water
 ---
 
