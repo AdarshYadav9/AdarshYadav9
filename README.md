@@ -80,7 +80,7 @@
 
 
 
-# 📊 GitHub Stats:
+## 📈 Contribution Streak: 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=AdarshYadav9&theme=dark&hide_border=false)<br/>
 
@@ -88,7 +88,7 @@
 
 ## 📈 Contribution Streak
 <p align="left">
-  <img src="![](https://nirzak-streak-stats.vercel.app/?user=AdarshYadav9&theme=dark&hide_border=false)<br/>" alt="GitHub Streak" width="70%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AdarshYadav9&theme=dark&hide_border=false" alt="GitHub Streak" width="70%"/>
 <
 
 ✨ *"Transforming ideas into elegant code, robust databases, and impactful projects"*
