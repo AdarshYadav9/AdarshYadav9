@@ -68,7 +68,7 @@
 
 ## 📈 Contribution Streak
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshYadav9&theme=tokyonight&hide_border=false&date_format=M%20j%5B,%20Y%5D&fire=FF7F50&ring=6495ED&currStreakLabel=FFD700" alt="GitHub Streak" width="70%"/>
-</p>## 📈 Contribution Streak
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Streak" width="70%"/>
+</p>
 
 ✨ *"Transforming ideas into elegant code, robust databases, and impactful projects"*
