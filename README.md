@@ -1,31 +1,7 @@
-# 👋 Hey, I'm Adarsh Yadav!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/adarsh-yadav9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Yadav-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/AdarshYadav9" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AdarshYadav9-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="mailto:adarshyadav918273@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-adarshyadav918273@gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
-  </a>
-</div>
-
-<br/>
-
----
-
-## 🚀 About Me
-
-<p align="center">
-  <strong>💡 Passionate <strong>CSE Student</strong> & Tech Explorer</strong><br/>
-  <strong>🎯 Focused on <strong>Full-Stack Development</strong> with expertise in <strong>React.js, Node.js, and MySQL</strong></strong><br/>
-  <strong>🤝 Open to collaboration on <strong>Web Applications & Open-Source Projects</strong></strong><br/>
-  <strong>⚡ Fun fact: I debug faster with juice 🧃 , Water</strong> 💧
-</p>
+👋 Hey, I'm Adarsh Yadav!
+<p align="center"> <a href="https://www.linkedin.com/in/adarsh-yadav9" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Yadav-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> &nbsp; <a href="https://github.com/AdarshYadav9" target="_blank"> <img src="https://img.shields.io/badge/GitHub-AdarshYadav9-black?style=for-the-badge&logo=github" alt="GitHub"/> </a> &nbsp; <a href="mailto:adarshyadav918273@gmail.com"> <img src="https://img.shields.io/badge/Gmail-adarshyadav918273@gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail"/> </a> </p>
+🚀 About Me
+<p align="center"> 💡 <strong>Passionate CSE Student & Tech Explorer</strong> <br/> 🎯 <strong>Focused on Full-Stack Development</strong> with expertise in <strong>React.js, Node.js, and MySQL</strong> <br/> 🤝 <strong>Open to collaboration on Web Applications & Open-Source Projects</strong> <br/> ⚡ <strong>Fun fact:</strong> I debug faster with juice 🧃, Water 💧 </p>
 
 ---
 
