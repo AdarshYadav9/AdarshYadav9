@@ -1,5 +1,6 @@
 👋 Hey, I'm Adarsh Yadav!
-<p align="center"> <a href="https://www.linkedin.com/in/adarsh-yadav9" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Yadav-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> &nbsp; <a href="https://github.com/AdarshYadav9" target="_blank"> <img src="https://img.shields.io/badge/GitHub-AdarshYadav9-black?style=for-the-badge&logo=github" alt="GitHub"/> </a> &nbsp; <a href="mailto:adarshyadav918273@gmail.com"> <img src="https://img.shields.io/badge/Gmail-adarshyadav918273@gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail"/> 
+<p align="center"> <a href="https://www.linkedin.com/in/adarsh-yadav9" target="_blank"> 
+  <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Yadav-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> &nbsp; <a href="https://github.com/AdarshYadav9" target="_blank"> <img src="https://img.shields.io/badge/GitHub-AdarshYadav9-black?style=for-the-badge&logo=github" alt="GitHub"/> </a> &nbsp; <a href="mailto:adarshyadav918273@gmail.com"> <img src="https://img.shields.io/badge/Gmail-adarshyadav918273@gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail"/> 
 </a> 
   </p>
 
