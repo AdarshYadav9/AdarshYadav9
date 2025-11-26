@@ -64,14 +64,10 @@
 <p align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=AdarshYadav9&theme=dark&hide_border=false" alt="GitHub Streak" width="50%"/>
 <
+
+  
 ##
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdarshYadav9/AdarshYadav9/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdarshYadav9/AdarshYadav9/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph for AdarshYadav9" src="https://raw.githubusercontent.com/AdarshYadav9/AdarshYadav9/output/pacman-contribution-graph.svg">
-</picture>
-
+##
 
 ✨ *"Transforming ideas into elegant code, robust databases, and impactful projects"* 
