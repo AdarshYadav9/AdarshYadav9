@@ -69,5 +69,5 @@
 ##
 
 ##
-
-✨ *"Transforming ideas into elegant code, robust databases, and impactful projects"* 
+✨ *"Tring to Learn from my failure and other experience"* 
+✨ *"Transforming ideas into elegant code , and impactful projects"* 
