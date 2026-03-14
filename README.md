@@ -57,7 +57,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
    <img src="https://cursor.sh/favicon.ico" alt="Cursor AI Editor" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/openai" alt="AI Tools" width="40" height="40"/>
+  <img src="https://antigravity.dev/favicon.ico" alt="Anti Gravity AI" width="40" height="40"/>
 </p>
 </p>
 
