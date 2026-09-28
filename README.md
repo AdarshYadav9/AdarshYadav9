@@ -124,29 +124,25 @@ A voice-enabled Retrieval-Augmented Generation system with Hindi & Marathi suppo
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logoColor=white)
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- GitHub Stats — using readme-stats.com (more reliable, no shared rate limit) -->
-<img height="180em" src="https://readme-stats.com/api?username=AdarshYadav9&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
-
-<!-- Top Languages — using same service -->
-<img height="180em" src="https://readme-stats.com/api/top-langs/?username=AdarshYadav9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- Profile Details -->
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshYadav9&theme=tokyonight"/>
 
 <br/><br/>
 
-<!-- Streak — demolab is the most stable streak service -->
-<img src="https://streak-stats.demolab.com?user=AdarshYadav9&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<!-- Stats + Languages -->
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdarshYadav9&theme=tokyonight"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdarshYadav9&theme=tokyonight"/>
 
 <br/><br/>
 
-<!-- Trophies — stable, no rate limit issues -->
-<img src="https://github-profile-trophy.vercel.app/?username=AdarshYadav9&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+<!-- Streak -->
+<img width="70%" src="https://streak-stats.demolab.com?user=AdarshYadav9&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 ## 🏆 GitHub Achievements
